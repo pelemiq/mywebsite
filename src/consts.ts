@@ -10,7 +10,7 @@ export const SITE: Site = {
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "About me.",
+  DESCRIPTION: "Explore My Portfolio and Discover My Projects",
 };
 
 export const BLOG: Metadata = {
@@ -20,25 +20,25 @@ export const BLOG: Metadata = {
 
 export const WORK: Metadata = {
   TITLE: "Work",
-  DESCRIPTION: "Where I have worked and what I have done.",
+  DESCRIPTION: "Where I have worked including roles and responsibilities.",
 };
 
 export const PROJECTS: Metadata = {
   TITLE: "Projects",
-  DESCRIPTION: "A collection of my projects, with links to repositories and demos.",
+  DESCRIPTION: "A collection of my projects, with links and descriptions.",
 };
 
 export const SOCIALS: Socials = [
-  { 
+  /*{ 
     NAME: "twitter-x",
     HREF: "https://twitter.com/markhorn_dev",
-  },
+  },*/
   { 
     NAME: "github",
-    HREF: "https://github.com/markhorn-dev"
+    HREF: "https://github.com/pelemiq"
   },
   { 
     NAME: "linkedin",
-    HREF: "https://www.linkedin.com/in/markhorn-dev",
+    HREF: "https://www.linkedin.com/in/pelemiq/",
   }
 ];
