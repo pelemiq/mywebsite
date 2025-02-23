@@ -1,6 +1,6 @@
 ---
 title: "Virtual Hero"
-description: "Minimal portfolio and blog build with astro and no frameworks."
+description: "Multiplayer VR game for the anime series"
 date: "Sept 2018"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Extendra Tailor"
-description: "Minimal portfolio and blog build with astro and no frameworks."
+description: "Virtual Try-On (VTO) web solution using Unreal Engine"
 date: "Mar 2024"
 ---
 
