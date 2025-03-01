@@ -4,8 +4,12 @@ description: "Multiplayer VR Environment for coworking and events."
 date: "July 2024"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IvzYb8OO788?si=eaj2R-MzPWJrH6-n&rel=0&autoplay=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+![Inapp images](/mywebsite/projects/extendrahub/ExtendraHub.jpg)
 
+<video controls width="800">
+  <source src="/mywebsite/projects/extendrahub/extendrahub interaction.mp4" type="video/mp4">
+  Extendra Hub interactions video.
+</video>
 
 
 ### Description
@@ -27,6 +31,8 @@ Eventualy I transitioned into the role of Project Manager, overseeing a multidis
 - Multiplayer
 
 ### Links
+<a target="_blank" aria-label="Product trailer" href="https://www.youtube.com/watch?v=IvzYb8OO788">**Product trailer**</a>
+<br>
 <a target="_blank" aria-label="Official website" href="https://extendrahub.io/">**Official website**</a>
 <br>
 <a target="_blank" aria-label="Meta Quest Appstore" href="https://www.meta.com/en-gb/experiences/extendra-hub/8573735049368457/">**Meta Quest Appstore**</a>
