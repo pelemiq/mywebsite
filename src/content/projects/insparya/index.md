@@ -1,7 +1,7 @@
 ---
 title: "Insparya surgical training"
 description: "Hair surgery medical training"
-date: "Mar 2023"
+date: "Mar 2022"
 ---
 
 <video controls width="800">
