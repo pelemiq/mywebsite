@@ -4,8 +4,7 @@ description: "Virtual Try-On (VTO) web solution using Unreal Engine"
 date: "Mar 2024"
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eIUd_emqMFE?si=eaj2R-MzPWJrH6-n&rel=0&autoplay=1&controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+![Inapp images](/mywebsite/projects/extendratailor/Tailor.webp)
 
 
 ### Description
@@ -25,3 +24,5 @@ I oversaw the technical solutions required to develop this project, tackling sig
 
 ### Links
 <a target="_blank" aria-label="Official website" href="https://extendratailor.io/">**Official website**</a>
+<br>
+<a target="_blank" aria-label="Official website" href="https://www.youtube.com/watch?v=eIUd_emqMFE">**Product Trailer**</a>
