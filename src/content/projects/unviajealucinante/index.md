@@ -4,7 +4,7 @@ description: "Minimal portfolio and blog build with astro and no frameworks."
 date: "Sept 2019"
 ---
 
-![Inapp images](/projects/unviajealucinante/inapp_images.jpg)
+![Inapp images](/mywebsite/projects/unviajealucinante/inapp_images.jpg)
 
 
 ### Description

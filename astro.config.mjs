@@ -5,6 +5,6 @@ import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
   site: "https://pelemiq.github.io",
-  base: "mywebsite",
+  base: "/mywebsite/",
   integrations: [mdx(), sitemap(), tailwind()],
 });
