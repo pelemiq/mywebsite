@@ -6,7 +6,7 @@ date: "Mar 2023"
 
 <video controls width="800">
   <source src="/mywebsite/projects/insparya/insparya_training.mp4" type="video/mp4">
-  Extendra Hub interactions video.
+  Insparya training video.
 </video>
 
 
