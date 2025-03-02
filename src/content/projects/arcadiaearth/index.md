@@ -8,7 +8,7 @@ date: "June 2022"
 
 <video controls width="800">
   <source src="/mywebsite/projects/arcadiaearth/arcadiavid.mp4" type="video/mp4">
-  Extendra Hub interactions video.
+  Arcadia Earth video.
 </video>
 
 
