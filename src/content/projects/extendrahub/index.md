@@ -31,4 +31,4 @@ Eventualy I transitioned into the role of Project Manager, overseeing a multidis
 - Multiplayer
 
 ### Links
-Unfortunetly, the company shut down on the beggining of 2025, so the app was disabled from the Meta app store
+Unfortunately, the company shut down on the beggining of 2025, so the app was disabled from the Meta app store
