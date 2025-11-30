@@ -31,8 +31,4 @@ Eventualy I transitioned into the role of Project Manager, overseeing a multidis
 - Multiplayer
 
 ### Links
-<a target="_blank" aria-label="Product trailer" href="https://www.youtube.com/watch?v=IvzYb8OO788">**Product trailer**</a>
-<br>
-<a target="_blank" aria-label="Official website" href="https://extendrahub.io/">**Official website**</a>
-<br>
-<a target="_blank" aria-label="Meta Quest Appstore" href="https://www.meta.com/en-gb/experiences/extendra-hub/8573735049368457/">**Meta Quest Appstore**</a>
+Unfortunetly, the company shut down on the beggining of 2025, so the app was disabled from the Meta app store

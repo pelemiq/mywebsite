@@ -31,4 +31,4 @@ The whole project was developed by 2 artists and 2 programmers, so each one of u
 - VFX
 
 ### Links
-<a target="_blank" aria-label="Official website" href="https://extendratailor.io/">**Official website**</a>
+<a target="_blank" aria-label="Official website" href="https://store.steampowered.com/app/1065390/Virtual_Hero_VR">**Steam page**</a>

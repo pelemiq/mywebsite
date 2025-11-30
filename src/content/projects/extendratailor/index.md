@@ -23,6 +23,4 @@ I oversaw the technical solutions required to develop this project, tackling sig
 - Vagon Streammings
 
 ### Links
-<a target="_blank" aria-label="Official website" href="https://extendratailor.io/">**Official website**</a>
-<br>
-<a target="_blank" aria-label="Official website" href="https://www.youtube.com/watch?v=eIUd_emqMFE">**Product Trailer**</a>
+Unfortunetly, the company shut down on the beggining of 2025, so the product page is no longer available.
